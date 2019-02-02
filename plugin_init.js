@@ -15,6 +15,9 @@
 
         this.settings = $.extend(true, this.Default, options);
         this.initialize();
+
+
+        
     }
 
 
